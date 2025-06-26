@@ -30,7 +30,7 @@
     "embla-carousel-react": "^8.5.2",
     "framer-motion": "^12.18.1",
     "lucide-react": "^0.330.0",
-    "motion": "^12.6.2",
+    "motion": "^12.16.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.7",
     "react-chartjs-2": "^5.2.0",
